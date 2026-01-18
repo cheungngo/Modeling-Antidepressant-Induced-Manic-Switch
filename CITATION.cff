@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work or associated code, please cite it using the following metadata."
+authors:
+  - family-names: "Cheung"
+    given-names: "N."
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Placeholder; replace with actual ORCID if available
+title: "Modeling Antidepressant-Induced Manic Switch in a Unified Computational Framework: Insights from Ketamine, SSRIs, and Neurosteroids"
+version: "1.0.0"  # Adjust to the Zenodo release version if specified
+doi: "10.5281/zenodo.18292021"
+date-released: "2026-01-19"  # Approximate based on context; update to exact Zenodo release date
+url: "https://doi.org/10.5281/zenodo.18292021"
+repository: "https://github.com/cheungngo/Modeling-Antidepressant-Induced-Manic-Switch"
+repository-code: "https://github.com/cheungngo/Modeling-Antidepressant-Induced-Manic-Switch.git"
+repository-artifact: "https://zenodo.org/records/18292021"
+type: "software"
+keywords:
+  - computational neuroscience
+  - antidepressant mechanisms
+  - manic switch
+  - synaptic pruning
+  - neural plasticity
+  - ketamine
+  - SSRIs
+  - neurosteroids
+  - bipolar disorder
+  - depression modeling
+license: "MIT"  # Placeholder; replace with actual license from repo (e.g., MIT, GPL, etc.)
